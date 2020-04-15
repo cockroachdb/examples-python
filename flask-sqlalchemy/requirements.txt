@@ -1,2 +1,2 @@
 flask-sqlalchemy
-cockroachdb
+sqlalchemy-cockroachdb
